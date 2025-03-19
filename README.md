@@ -3,11 +3,11 @@
 
 ## Installing dependencies
 
-1. Make the install_dependencies script available to run:
+1. Make the `install_dependencies` script available to run:
 
     `chmod +x ./tools/install_dependencies.sh`
 
-2. Install the dependencies. This might take a while:
+2. Install the dependencies. Type `y` to all the prompts. This might take a while:
 
     `./tools/install_dependencies.sh`
 
