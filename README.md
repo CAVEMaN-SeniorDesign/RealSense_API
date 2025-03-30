@@ -1,7 +1,17 @@
 
 # RealSense API Readme
 
-## Installing dependencies
+## Installing dependencies: NVIDIA Jetson AGX
+
+1. Make the `install_dependencies_agx` script available to run:
+
+    `chmod +x ./tools/install_dependencies_agx.sh`
+
+2. Install the dependencies. Type `y` to all the prompts. This might take a while:
+
+    `./tools/install_dependencies_agx.sh`
+
+## Installing dependencies: other
 
 1. Make the `install_dependencies` script available to run:
 
